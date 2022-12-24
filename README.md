@@ -20,7 +20,6 @@ A=np.array([[2,2],[1,3]])
 values,vectors=np.linalg.eig(A)
 print("Eigen values are",values,"and Eigen Vectors are",vectors)
 ```
-
 ## Output:
 ![OUTPUT](./IMAGES/eigenvalues.png)
 ## Result:
